@@ -1,2 +1,3 @@
-# 1k_lakes_magic_model_dep
-Processing deposition data for the 1000 lakes for use with the MAGIC model
+# Deposition data for 1000 Lakes MAGIC runs
+
+Processing atmospheric deposition data for the "1000 Lakes" for use with the MAGIC model.
